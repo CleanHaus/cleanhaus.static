@@ -2,5 +2,5 @@
     ForceType application/json
 </FilesMatch>
 <FilesMatch "apple-app-site-association$">
-    ForceType application/json
+    AddType application/json .json
 </FilesMatch>
