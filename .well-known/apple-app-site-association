@@ -1,0 +1,19 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "7Q582KRR65.haus.clean",
+        "paths": [
+          "*"
+        ],
+        "components": [
+          {
+            "/": "/*",
+            "comment": "Matches any URL"
+          }
+        ]
+      }
+    ]
+  }
+}
