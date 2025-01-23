@@ -1,0 +1,4 @@
+# Create a file named `_headers` in the root of your repository
+/.well-known/apple-app-site-association
+    Content-Type: application/json
+    Cache-Control: no-cache
