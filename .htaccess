@@ -1,9 +1,9 @@
 <FilesMatch "\.json$">
     ForceType application/json
 </FilesMatch>
-<Files "apple-app-site-association">
+<Files ".well-known/apple-app-site-association">
     ForceType application/json
 </Files>
-<!-- <FilesMatch "apple-app-site-association$">
+<FilesMatch "apple-app-site-association$">
     AddType application/json .json
-</FilesMatch> -->
+</FilesMatch>

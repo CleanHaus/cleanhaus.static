@@ -1,9 +1,0 @@
-include: [".well-known"]
-exclude: ["README.md"]
-
-defaults:
-  - scope:
-      path: ".well-known/apple-app-site-association"
-    values:
-      layout: null
-      content_type: application/json
