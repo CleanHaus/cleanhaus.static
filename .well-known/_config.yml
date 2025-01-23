@@ -1,0 +1,6 @@
+defaults:
+  - scope:
+      path: "apple-app-site-association"
+    values:
+      layout: null
+      content_type: application/json
