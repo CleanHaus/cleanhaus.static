@@ -4,7 +4,9 @@
     "target": {
       "namespace": "android_app",
       "package_name": "haus.clean",
-      "sha256_cert_fingerprints": [""]
+      "sha256_cert_fingerprints": [
+        "D3:D4:92:37:51:D3:04:16:F5:4F:9B:35:E0:0A:D8:0C:37:A6:E2:48:D0:59:D1:70:1A:26:68:1B:69:83:20:E7"
+      ]
     }
   }
 ]
