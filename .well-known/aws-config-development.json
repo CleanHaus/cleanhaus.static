@@ -1,0 +1,8 @@
+{
+  "region": "us-west-2",
+  "apiGatewayHttpId": "https://hrtzbsppui.execute-api.us-west-2.amazonaws.com",
+  "apiGatewayWssId": "wss://y5r541hwq0.execute-api.us-west-2.amazonaws.com/development",
+  "userPoolId": "us-west-2_Bb81HACVR",
+  "userPoolClientId": "1njrf34otj68rtgjh5mb4047ou",
+  "identityPoolId": "us-west-2:7860fd6a-98b6-47d7-b788-4924b19e97cb"
+}
