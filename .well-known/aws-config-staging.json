@@ -1,5 +1,5 @@
 {
-  "region": "us-west-2",
+  "region": "us-east-1",
   "apiGatewayHttpId": "https://stqcpubj66.execute-api.us-east-2.amazonaws.com/",
   "apiGatewayWssId": "wss://whm0z6nzsi.execute-api.us-east-2.amazonaws.com/staging",
   "userPoolId": "us-east-2_xf6LmV5Pe",
