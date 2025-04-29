@@ -1,9 +1,9 @@
 {
-  "region": "us-east-1",
+  "region": "us-east-2",
   "customApiGatewayHttpId": "https://api-staging.clean.haus",
-  "apiGatewayHttpId": "https://stqcpubj66.execute-api.us-east-2.amazonaws.com/",
-  "apiGatewayWssId": "wss://whm0z6nzsi.execute-api.us-east-2.amazonaws.com/staging",
-  "userPoolId": "us-east-2_xf6LmV5Pe",
-  "userPoolClientId": "5nb90ekpvpcl1e10fp2lpidp8a",
-  "identityPoolId": "us-east-2:ce128530-45d8-476c-8b1f-3adbf2741f1d"
+  "apiGatewayHttpId": "https://r199rqus3a.execute-api.us-east-2.amazonaws.com/",
+  "apiGatewayWssId": "wss://y3esgsmqlf.execute-api.us-east-2.amazonaws.com/staging",
+  "userPoolId": "us-east-2_YQhuCLYOw",
+  "userPoolClientId": "329tumdeqp93bh9mnp36lege0u",
+  "identityPoolId": "us-east-2:82303749-42cc-4a9f-8fd5-d2cf4d7aee06"
 }
