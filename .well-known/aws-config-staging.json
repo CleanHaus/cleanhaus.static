@@ -1,9 +1,20 @@
 {
   "region": "us-east-2",
-  "customApiGatewayHttpId": "https://api-staging.clean.haus",
-  "apiGatewayHttpId": "https://r199rqus3a.execute-api.us-east-2.amazonaws.com/",
-  "apiGatewayWssId": "wss://y3esgsmqlf.execute-api.us-east-2.amazonaws.com/staging",
+  "customApiGatewayHttpUrl": "https://api-staging.clean.haus",
+  "apiGatewayHttpUrl": "https://r199rqus3a.execute-api.us-east-2.amazonaws.com/",
+  "apiGatewayWssUrl": "wss://y3esgsmqlf.execute-api.us-east-2.amazonaws.com/staging",
   "userPoolId": "us-east-2_YQhuCLYOw",
   "userPoolClientId": "329tumdeqp93bh9mnp36lege0u",
-  "identityPoolId": "us-east-2:82303749-42cc-4a9f-8fd5-d2cf4d7aee06"
+  "identityPoolId": "us-east-2:82303749-42cc-4a9f-8fd5-d2cf4d7aee06",
+  "mediaBucket": "cleanhausinc-staging-media",
+  "vapidKey": "BHkNmaZARPZS8M9dQNu-Yu4PAZbBRFi3ivuuGHrvltvW6c8rOJ7U2kbA4HOzfo3drpjg4YJhnptwuuhiRfT5vlI",
+  "firebaseConfig": {
+    "apiKey": "AIzaSyAHLZU3BuGSfwRSjpDQwod2c6ScXdgE_QU",
+    "authDomain": "clean-haus.firebaseapp.com",
+    "projectId": "clean-haus",
+    "storageBucket": "clean-haus.appspot.com",
+    "messagingSenderId": "243778138401",
+    "appId": "1:243778138401:web:303dd9b94ba06141e60e60",
+    "measurementId": "G-BLPM7H2P72"
+  }
 }
