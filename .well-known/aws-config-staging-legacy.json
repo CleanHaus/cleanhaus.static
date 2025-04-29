@@ -9,7 +9,6 @@
   "mediaBucket": "cleanhausinc-staging-media",
   "vapidKey": "BHkNmaZARPZS8M9dQNu-Yu4PAZbBRFi3ivuuGHrvltvW6c8rOJ7U2kbA4HOzfo3drpjg4YJhnptwuuhiRfT5vlI",
   "firebaseConfig": {
-    "apiKey": "AIzaSyAHLZU3BuGSfwRSjpDQwod2c6ScXdgE_QU",
     "authDomain": "clean-haus.firebaseapp.com",
     "projectId": "clean-haus",
     "storageBucket": "clean-haus.appspot.com",
