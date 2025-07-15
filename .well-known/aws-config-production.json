@@ -1,0 +1,20 @@
+{
+  "region": "us-west-1",
+  "customApiGatewayHttpUrl": "https://api.clean.haus",
+  "apiGatewayHttpUrl": "https://uvmxvg144i.execute-api.us-west-1.amazonaws.com/",
+  "apiGatewayWssUrl": "wss://12crbrccf7.execute-api.us-west-1.amazonaws.com/production",
+  "userPoolId": "us-west-1_IajU0JirQ",
+  "userPoolClientId": "fobfeldgv730lllv6c032pqn7",
+  "identityPoolId": "us-west-1:ad8162f0-7e03-493f-8239-4c561098ea10",
+  "mediaBucket": "cleanhausinc-production-media",
+  "vapidKey": "BHkNmaZARPZS8M9dQNu-Yu4PAZbBRFi3ivuuGHrvltvW6c8rOJ7U2kbA4HOzfo3drpjg4YJhnptwuuhiRfT5vlI",
+  "firebaseConfig": {
+    "authDomain": "clean-haus.firebaseapp.com",
+    "projectId": "clean-haus",
+    "storageBucket": "clean-haus.appspot.com",
+    "messagingSenderId": "243778138401",
+    "appId": "1:243778138401:web:303dd9b94ba06141e60e60",
+    "measurementId": "G-BLPM7H2P72"
+  },
+  "elevenAgentId": "lmcqrqTs1Ok1ndpDuQWg"
+}
