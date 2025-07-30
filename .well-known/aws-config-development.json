@@ -4,7 +4,7 @@
   "apiGatewayHttpUrl": "https://hrtzbsppui.execute-api.us-west-2.amazonaws.com",
   "apiGatewayWssUrl": "wss://y5r541hwq0.execute-api.us-west-2.amazonaws.com/development",
   "userPoolId": "us-west-2_Bb81HACVR",
-  "userPoolClientId": "1njrf34otj68rtgjh5mb4047ou",
+  "userPoolClientId": "6d73bmreq0h9sql3qmsnj854nj",
   "identityPoolId": "us-west-2:7860fd6a-98b6-47d7-b788-4924b19e97cb",
   "mediaBucket": "cleanhausinc-development-media",
   "vapidKey": "BHkNmaZARPZS8M9dQNu-Yu4PAZbBRFi3ivuuGHrvltvW6c8rOJ7U2kbA4HOzfo3drpjg4YJhnptwuuhiRfT5vlI",
