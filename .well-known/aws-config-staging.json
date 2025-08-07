@@ -4,7 +4,7 @@
   "apiGatewayHttpUrl": "https://r199rqus3a.execute-api.us-east-2.amazonaws.com/",
   "apiGatewayWssUrl": "wss://y3esgsmqlf.execute-api.us-east-2.amazonaws.com/staging",
   "userPoolId": "us-east-2_YQhuCLYOw",
-  "userPoolClientId": "329tumdeqp93bh9mnp36lege0u",
+  "userPoolClientId": "1rnt6c45fksgf8j21m0r3gjlir",
   "identityPoolId": "us-east-2:82303749-42cc-4a9f-8fd5-d2cf4d7aee06",
   "mediaBucket": "cleanhausinc-staging-media",
   "vapidKey": "BHkNmaZARPZS8M9dQNu-Yu4PAZbBRFi3ivuuGHrvltvW6c8rOJ7U2kbA4HOzfo3drpjg4YJhnptwuuhiRfT5vlI",
